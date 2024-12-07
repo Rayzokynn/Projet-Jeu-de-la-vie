@@ -155,6 +155,7 @@ En appuyant sur:
     -la touche "G" vous pourrez ajouter à l'endroit que vous voudrez un glider.
 
 Pour arrêter le programme en Mode Graphique vous aurez juste à fermer la fenêtre de la simulation.
+Petite vidéo démonstration ici : https://www.youtube.com/watch?v=DiqtibuKNJI
 
 
 

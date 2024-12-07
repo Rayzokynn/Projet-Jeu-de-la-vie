@@ -1,6 +1,7 @@
 Fonctionnement :
 
 Compilation avec la commande : g++ grille.cpp console.cpp graphique.cpp cell.cpp main.cpp -o GameofLife -lsfml-graphics -lsfml-window -lsfml-system
+
 Execution du .exe : ./GameofLife
 
 
@@ -11,8 +12,8 @@ Une fois le programme lancé cette interface s'affichera :
     2. Mode Testeur (tests unitaires)
     Votre choix :
 
-en fonction du choix 1 ou 2, vous serez dirigé vers 
-dans le premier cas:
+en fonction du choix 1 ou 2, vous serez dirigé vers: 
+Dans le premier cas:
 
     Bienvenue dans le Jeu de la Vie !
     1. Mode Utilisateur
@@ -23,7 +24,7 @@ dans le premier cas:
     2. Mode Graphique
     Votre choix :
 
-dans le second cas :
+Dans le second cas :
 
     Bienvenue dans le Jeu de la Vie !
     1. Mode Utilisateur
@@ -34,7 +35,7 @@ dans le second cas :
 Pour le MODE TESTEUR:
 A la première question que voici vous mettre le chemin de votre fichier; exemple:
 
-    Veuillez entrer le chemin du fichier source : /mnt/c/Users/alexi/Desktop/CESI/A2/BLOC_2_Programmation_Orientée_Objet/Jeu_De_La_Vie/01_test_unitaire.txt
+    Veuillez entrer le chemin du fichier source : /mnt/c/Users/CESI/A2/BLOC_2_Programmation_Orientée_Objet/Jeu_De_La_Vie/01_test_unitaire.txt
 
 A la deuxième vous nommerez votre dossier de cette manière, exemple :
 
@@ -64,8 +65,8 @@ Et vous pourrez vérifier qu'à la génération 3 le fichier ressemble à ça :
 
 Pour le MODE UTILISATEUR:
 
-en fonction du choix 1 ou 2, vous serez dirigé vers 
-dans le PREMIER CAS MODE CONSOLE:
+En fonction du choix 1 ou 2, vous serez dirigé vers :
+Dans le PREMIER CAS MODE CONSOLE:
 
     Bienvenue dans le Jeu de la Vie !
     1. Mode Utilisateur
@@ -79,7 +80,7 @@ dans le PREMIER CAS MODE CONSOLE:
 
 Vous entrerez le chemin du fichier comme dans l'exemple ci-dessous: 
 
-    Veuillez entrer le chemin du fichier source : /mnt/c/Users/alexi/Desktop/CESI/A2/BLOC_2_Programmation_Orientée_Objet/Jeu_De_La_Vie/01_fichier_test.txt
+    Veuillez entrer le chemin du fichier source : /mnt/c/Users/CESI/A2/BLOC_2_Programmation_Orientée_Objet/Jeu_De_La_Vie/01_fichier_test.txt
 
 Puis le nom de votre dossier; exemple:
 
@@ -97,10 +98,10 @@ Vous verrez apparaitre ceci :
     Generation 2 sauvegardée dans : fichier_test_out/generation_2.txt
     Generation 3 sauvegardée dans : fichier_test_out/generation_3.txt
 
-et votre dossier "fichier_test_out" appraître dans vos fichiers, vous pourrez ensuite visualiser les différentes générations
+Et votre dossier "fichier_test_out" appraître dans vos fichiers, vous pourrez ensuite visualiser les différentes générations.
 
 
-dans le SECOND CAS MODE GRAPHIQUE:
+Dans le SECOND CAS MODE GRAPHIQUE:
 
     Bienvenue dans le Jeu de la Vie !
     1. Mode Utilisateur
@@ -114,7 +115,7 @@ dans le SECOND CAS MODE GRAPHIQUE:
 
 Vous entrerez le chemin du fichier comme dans l'exemple ci-dessous: 
 
-    Veuillez entrer le chemin du fichier source : /mnt/c/Users/alexi/Desktop/CESI/A2/BLOC_2_Programmation_Orientée_Objet/Jeu_De_La_Vie/01_fichier_test.txt
+    Veuillez entrer le chemin du fichier source : /mnt/c/Users/CESI/A2/BLOC_2_Programmation_Orientée_Objet/Jeu_De_La_Vie/01_fichier_test.txt
 
 Vous verrez apparaitre ceci, qui sont les paramètres que vous aurez mis dans le fichier pour la grille: 
 
@@ -131,8 +132,7 @@ Vous verrez apparaitre ceci :
     Dimensions de la fenêtre : 1000x500                ici les dimensions sont multipliées par la taille des cellules(cellSize) ici paramêtrées à 10.
     Setting vertical sync not supported
 
-et une fenetre apparaitra vous émulant le jeu de la vie à partir de votre fichier. 
-Pour arrêter vous aurez juste à fermer la fenêtre.
+Et une fenetre apparaitra vous émulant le jeu de la vie à partir de votre fichier. 
 
 
 Dans le Mode Graphique vous aurez la possibilité d'intéragir de différentes manières.
@@ -148,3 +148,5 @@ En appuyant sur:
     -la touche "S" vous pourrez ajouter à l'endroit que vous voudrez une structure stable (carré 2x2).
     -la touche "B" vous pourrez ajouter à l'endroit que vous voudrez un blinker en deux générations.
     -la touche "G" vous pourrez ajouter à l'endroit que vous voudrez un glider.
+
+Pour arrêter le programme en Mode Graphique vous aurez juste à fermer la fenêtre de la simulation.

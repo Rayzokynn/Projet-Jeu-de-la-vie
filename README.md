@@ -149,6 +149,7 @@ Si vous voulez intéragir plus directement sur la simulation vous pourrez, en pl
 En appuyant sur:
 
     -la touche "C" vous pourrez ajouter à l'endroit que vous voudrez une cellule vivante unique.
+    -la touche "D" vous pourrez ajouter à l'endroit que vous voudrez une cellule morte unique.
     -la touche "S" vous pourrez ajouter à l'endroit que vous voudrez une structure stable (carré 2x2).
     -la touche "B" vous pourrez ajouter à l'endroit que vous voudrez un blinker en deux générations.
     -la touche "G" vous pourrez ajouter à l'endroit que vous voudrez un glider.

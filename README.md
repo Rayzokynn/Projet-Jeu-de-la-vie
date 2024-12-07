@@ -136,10 +136,12 @@ Pour arrêter vous aurez juste à fermer la fenêtre.
 
 
 Dans le Mode Graphique vous aurez la possibilité d'intéragir de différentes manières.
-Vous pouvez mettre pause la simulation en appuyant simplement sur la barre espace.
+Vous pouvez mettre pause la simulation en appuyant simplement sur la "BARRE ESPACE".
 Si vous voulez intéragir plus directement sur la simulation vous pourrez, en plaçant votre souris sur la simulation à l'endroit que vous souhaitez, générer différentes formes basiques.
-En appuyant sur: 
--la touche "C" vous pourrez ajouter à l'endroit que vous voudrez une cellule vivante unique.
--la touche "S" vous pourrez ajouter à l'endroit que vous voudrez une structure stable (carré 2x2).
--la touche "B" vous pourrez ajouter à l'endroit que vous voudrez un blinker en deux générations.
--la touche "G" vous pourrez ajouter à l'endroit que vous voudrez un glider.
+
+En appuyant sur:
+
+    -la touche "C" vous pourrez ajouter à l'endroit que vous voudrez une cellule vivante unique.
+    -la touche "S" vous pourrez ajouter à l'endroit que vous voudrez une structure stable (carré 2x2).
+    -la touche "B" vous pourrez ajouter à l'endroit que vous voudrez un blinker en deux générations.
+    -la touche "G" vous pourrez ajouter à l'endroit que vous voudrez un glider.

@@ -53,6 +53,7 @@ Il s'affichera ensuite ceci si tout se passe bien :
     Generation 3 sauvegardée dans : Test_unitaire_out/generation_3.txt
 
 Et vous pourrez vérifier qu'à la génération 3 le fichier ressemble à ça :
+
     0 0 0 0 0 0 0 0 0 0 
     0 0 0 0 0 0 0 0 0 0 
     0 0 1 1 1 0 0 0 0 0 

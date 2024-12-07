@@ -154,3 +154,7 @@ En appuyant sur:
     -la touche "G" vous pourrez ajouter à l'endroit que vous voudrez un glider.
 
 Pour arrêter le programme en Mode Graphique vous aurez juste à fermer la fenêtre de la simulation.
+
+
+
+Note de l'auteur : La deuxième extension présente dans les fichiers "extension2.h" et "extension2.cpp" n'a pas encore été finie et n'est pas encore fonctionnelle, libre à vous de reprendre notre code pour pouvoir la complêter et en profiter! 

@@ -136,7 +136,10 @@ Pour arrêter vous aurez juste à fermer la fenêtre.
 
 
 Dans le Mode Graphique vous aurez la possibilité d'intéragir de différentes manières.
-Vous pouvez mettre pause la simulation en appuyant simplement sur la "BARRE ESPACE".
+Vous pouvez mettre pause la simulation en appuyant simplement sur:
+
+    -"BARRE ESPACE"
+
 Si vous voulez intéragir plus directement sur la simulation vous pourrez, en plaçant votre souris sur la simulation à l'endroit que vous souhaitez, générer différentes formes basiques.
 
 En appuyant sur:

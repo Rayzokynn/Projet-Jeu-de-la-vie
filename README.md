@@ -1,8 +1,12 @@
 Fonctionnement :
 
-Compilation avec la commande : g++ grille.cpp console.cpp graphique.cpp cell.cpp main.cpp -o GameofLife -lsfml-graphics -lsfml-window -lsfml-system
+Compilation avec la commande : 
 
-Execution du .exe : ./GameofLife
+    g++ grille.cpp console.cpp graphique.cpp cell.cpp main.cpp -o GameofLife -lsfml-graphics -lsfml-window -lsfml-system
+
+Execution du .exe : 
+    
+    ./GameofLife
 
 
 Une fois le programme lancé cette interface s'affichera :
